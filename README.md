@@ -21,7 +21,7 @@ Part 2:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://y
 
 ## Architecture
 
-![image](https://github.com/user-attachments/assets/87cdc79c-c9a1-4c4d-887a-ab6007394bc7)
+![image](https://github.com/jubairt/Airflow-Gcp-ELT-Pipeline/blob/main/architecture.png)
 
 
 ### Workflow
@@ -64,11 +64,11 @@ Part 2:   [![YouTube](https://img.shields.io/badge/YouTube-Video-red)](https://y
 
 ### Airflow Pipeline
 
-![image](https://github.com/user-attachments/assets/8e8b8373-9d2a-417b-9fd9-5f42171c06f8)
+![image](https://github.com/jubairt/Airflow-Gcp-ELT-Pipeline/blob/main/Airflow.png)
 
 
 ### Looker Studio Report
 
-![image](https://github.com/user-attachments/assets/d06f0d3e-a1d0-404a-9eb7-c61c85df8257)
+![image](https://github.com/jubairt/Airflow-Gcp-ELT-Pipeline/blob/main/LockerStudioDashboard.png)
 
 
